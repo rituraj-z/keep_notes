@@ -1,8 +1,8 @@
-# keep_notes
+# Keep Notes 📝
 
-A new Flutter project.
+A Notes App made using Flutter & Sqflite for local storage.
 
-## Getting Started
+## Features 
 
 This project is a starting point for a Flutter application.
 
